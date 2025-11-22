@@ -1,0 +1,17 @@
+# Core Scientific Libraries
+numpy>=1.24
+scipy>=1.11
+pandas>=2.1
+matplotlib>=3.8
+plotly>=5.18
+
+# Control Systems & Aerospace Applications
+control>=0.9
+sympy>=1.12
+pyDOE>=0.3.8
+
+# Machine Learning (for Week 10 Future Applications)
+scikit-learn>=1.4
+
+# Optional (For CFD Modules – install only if needed)
+pyFoam>=0.6.10
